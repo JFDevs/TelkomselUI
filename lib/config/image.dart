@@ -1,5 +1,5 @@
 class Images {
-  static const String TelkomselUiPath = "lib/assets/images";
+  static const String TelkomselUiPath = "assets/images";
   static const String Logo = "$TelkomselUiPath/logo.png";
   static const String MyTelkomsel = "$TelkomselUiPath/MyTelkomsel.svg";
   static const String SimpatiLogo = "$TelkomselUiPath/simpati_logo.png";
